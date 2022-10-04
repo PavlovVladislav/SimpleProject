@@ -1,1 +1,4 @@
 # SimpleProject
+
+* Foo
+* Bar
