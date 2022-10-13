@@ -1,3 +1,4 @@
 # SimpleProject
 
 Foooo
+bar
